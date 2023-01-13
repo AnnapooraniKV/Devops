@@ -1,0 +1,12 @@
+<html>
+<head></head>
+<body background="C:\Users\karpa\OneDrive\Desktop\WT link ex3\bg.jpg"><br><br><br><br>
+<img src="C:\Users\karpa\OneDrive\Desktop\WT link ex3\logo.jpg"><br>
+<a href="viewalbum.html"><h2>View Album</h2></a>
+<br>
+<a href="viewsimilar.html"><h2>View Similar</h2></a>
+<br>
+<a href="about.html"><h2>About</h2></a>
+
+</body>
+</html>
